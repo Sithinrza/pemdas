@@ -1,0 +1,13 @@
+body{
+    background-color: #fafafa;
+}
+
+.card{
+    background-color: #b8d01c !important;
+    border: thick double black !important;
+}
+
+.btn{
+    background-color: #35344c !important;
+    color: #dcd6cb !important;
+}
